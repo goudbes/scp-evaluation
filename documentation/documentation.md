@@ -1,13 +1,8 @@
-<style>
-H1{color:Blue !important;}
-H5{color:DarkOrange !important;}
-</style>
-
 # DHIS2 Shared Component Platform (SCP) Documentation
 #### Documentation for DHIS2 Shared Component platform website, SCP command line interface and SCP Whitelist repository
 
 
-##### This documentation is part of Bengtsson, A. (2021). Facilitating Software Reuse. Using Design Science Research To Develop Design Principles For Implementing A Component Repository (Unpublished master's thesis). University of Oslo, Norway.
+#### This documentation is part of Bengtsson, A. (2021). Facilitating Software Reuse. Using Design Science Research To Develop Design Principles For Implementing A Component Repository (Unpublished master's thesis). University of Oslo, Norway.
 
 ## 1. About DHIS2 Shared Component Platform (DHIS2 SCP)
 
